@@ -40,6 +40,7 @@ Medir la distancia respectiva desde el dispositivo vinculado al dispositivo Low-
 Un conjunto de dos dispositivos vinculados que integre módulos de posicionamiento y comunicación de bajo costo (Low-Tech) permitirá traducir el distanciamiento físico en variables cuantitativas claras (metros, minutos y coordenadas) y cualitativas (alertas sonoras y mensajería intuitiva preseteada), logrando reducir los tiempos de búsqueda, optimizar la reacción en situaciones de desorientación y asegurar una vía expedita de comunicación y contacto con los organismos de emergencia.
 
 ## Referentes
+## *Referente 1:*
 
 
 
