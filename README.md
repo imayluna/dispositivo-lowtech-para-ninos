@@ -40,7 +40,50 @@ Medir la distancia respectiva desde el dispositivo vinculado al dispositivo Low-
 Un conjunto de dos dispositivos vinculados que integre módulos de posicionamiento y comunicación de bajo costo (Low-Tech) permitirá traducir el distanciamiento físico en variables cuantitativas claras (metros, minutos y coordenadas) y cualitativas (alertas sonoras y mensajería intuitiva preseteada), logrando reducir los tiempos de búsqueda, optimizar la reacción en situaciones de desorientación y asegurar una vía expedita de comunicación y contacto con los organismos de emergencia.
 
 ## Referentes
-## *Referente 1:*
+## *Referente 1: Reloj GPS con Arduino*
+![Reloj GPS con Arduino](imagenes-referentes/referente1.png)
+
+Sacamos beneficios de esta idea por el formato del dispositivo, como sus componentes y codificación.
+
+Usando un SIM28M GPS receiver module como receptor y un Módulo GPS NEO-6M con una antena.
+
+(https://www.electronicsforu.com/electronics-projects/gps-clock-arduino)
+
+
+## *Referente 2: Módulo GPS con Arduino*
+![Módulo GPS con Arduino](imagenes-referentes/referente2.png)
+
+Ejemplo de un código para arduino que muestra la localización del dispositivo mediante la respuesta del registro de salida.
+
+Usando el Módulo GPS NEO-6M
+
+
+(https://naylampmechatronics.com/blog/18_tutorial-modulo-gps-con-arduino.html)
+
+
+## *Referente 3: Gps Rastreador*
+![Gps Rastreador](imagenes-referentes/referente3.png)
+
+Ejemplo de una forma práctica de ocultar el gps y volverlo algo cotidiano, se podría presionar de manera convencional sin que tuviera algún indicio de alertar a otros, un ejemplo de hipótesis para nuestro producto final.
+
+
+
+(https://articulo.mercadolibre.cl/MLC-613843320-gps-rastreador-anti-perdida-mascotas-bolsos-ninos-_JM?matt_tool=16931662&utm_source=google_shopping&utm_medium=organic
+)
+
+
+## *Referente 4: AirTag*
+![AirTag](imagenes-referentes/referente4.png)
+
+A partir del referente de AirTag, adaptamos la idea de proyectar en el teléfono móvil los datos clave del dispositivo low-tech vinculado, permitiendo así integrar múltiples funcionalidades de monitoreo.
+
+
+
+
+(https://www.apple.com/cl/airtag/)
+
+
+
 
 
 
