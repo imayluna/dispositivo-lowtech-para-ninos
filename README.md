@@ -1,4 +1,4 @@
-# DISPOSITIVO-LOW-TECH-PARA-NI-OS
+# dispositivo-lowtech-para-ninos
 # Piping call
 
 ## dispositivos lowtech e interfaces interactivas 
@@ -41,7 +41,7 @@ Un conjunto de dos dispositivos vinculados que integre módulos de posicionamien
 
 ## Referentes
 
-## Visión
+
 
 
 
