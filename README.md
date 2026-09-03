@@ -1,7 +1,7 @@
 # Dispositivo-lowtech-para-ninos
 # Piping call
 
-## dispositivos lowtech e interfaces interactivas 
+## Dispositivos lowtech e interfaces interactivas 
 
 **Equipo:** Mártin Palacios Araya, Imay Pizarro Luna
 
