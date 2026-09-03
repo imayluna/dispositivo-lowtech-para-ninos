@@ -3,10 +3,6 @@
 
 ## Dispositivos lowtech e interfaces interactivas 
 
-**Equipo:** Mártin Palacios Araya, Imay Pizarro Luna
-
-**Problematica:** Dispositivo low-tech de orientación y comunicación bidireccional para el resguardo de menores.
-
 ## Equipo
 
 | Integrantes |
@@ -14,6 +10,7 @@
 | Mártin Palacios Araya |
 | Imay Pizarro Luna |
 
+**Problematica:** Dispositivo low-tech de orientación y comunicación bidireccional para el resguardo de menores.
 
 ## Descripción
 
