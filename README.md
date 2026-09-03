@@ -1,4 +1,4 @@
-# dispositivo-lowtech-para-ninos
+# Dispositivo-lowtech-para-ninos
 # Piping call
 
 ## dispositivos lowtech e interfaces interactivas 
