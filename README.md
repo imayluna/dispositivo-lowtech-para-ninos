@@ -2,7 +2,8 @@
  # Dispositivos lowtech e interfaces interactivas 
 
 ## Dispositivo-lowtech-para-ninos
-## Nombre del dispositivo: Piping call
+## Nombre del dispositivo: *Piping call*
+
 
 ## Equipo
 
@@ -11,7 +12,9 @@
 | Mártin Palacios Araya |
 | Imay Pizarro Luna |
 
+
 **Problematica:** Dispositivo low-tech de orientación y comunicación bidireccional para el resguardo de menores.
+
 
 ## Descripción
 
@@ -29,17 +32,41 @@ Esta situación evidencia la necesidad de explorar una alternativa accesible que
 
 ## Objetivo 
 
-Diseñar un sistema de interfaz e interacción interactiva —compuesto por dos dispositivos Low-Tech vinculados— capaz de enlazar a ambos usuarios mediante el monitoreo de proximidad en metros, la proyección de coordenadas para navegación, el cálculo del tiempo estimado de reencuentro en minutos y la emisión de señales sonoras de rastreo. El desafío contempla además la integración de una plataforma bidireccional de alertas que incorpore un repertorio de mensajes predeterminados de apoyo o auxilio, junto con una vía de enlace directo a los servicios de emergencia (Carabineros, Bomberos o personal médico).
+Diseñar un sistema interactivo de bajo costo compuesto por dos dispositivos vinculados, orientado a apoyar el reencuentro entre un cuidador y un niño en situaciones de extravío.
+
+El sistema deberá permitir conocer la ubicación y distancia relativa entre ambos dispositivos, facilitar la orientación hacia el usuario vinculado y proporcionar información que apoye la estimación del desplazamiento necesario para el reencuentro. Asimismo, incorporará mecanismos de alerta sonora y comunicación mediante mensajes predeterminados, además de una función destinada a solicitar ayuda ante situaciones de emergencia.
+
 
 ## Usuarios y contexto
 
-El problema afecta a cuidadores (padres, madres o tutores) y a niños y niñas de entre 4 a 11 años durante su vida cotidiana en espacios urbanos de alta concurrencia como parques, plazas y centros comerciales. La evidencia se sostiene en las barreras económicas para mantener servicios GPS de pago y en la vulnerabilidad a la que se exponen los niños al perderse sin una herramienta comprensible para su edad. El contexto de uso exige un sistema accesible que permita tanto el rastreo espacial como el soporte emocional bidireccional —mediante mensajes prediseñados de contención y ayuda (“¿Estás bien?”, “Tengo miedo”, “No te muevas”)— y la capacidad de gestionar auxilio institucional de urgencia si la situación lo requiere.
+El sistema está dirigido a dos usuarios principales: cuidadores, como padres, madres o tutores, y niños y niñas de entre 4 y 11 años.
+
+Su uso se plantea principalmente en espacios urbanos de alta concurrencia, como parques, plazas y centros comerciales, donde existe la posibilidad de que un niño se aleje o pierda contacto visual con su cuidador.
+
+Debido a las características del usuario infantil, la interacción debe considerar una comunicación simple, comprensible y de rápida ejecución. Por su parte, el cuidador requiere información que le permita orientar sus acciones y facilitar el proceso de búsqueda.
+
 
 ## Variables
-Medir la distancia respectiva desde el dispositivo vinculado al dispositivo Low-Tech (tomando la medida en Metros), poder reconocer la dirección en donde se encuentra el dispositivo Low-Tech además de su ubicación cartográfica.
+
+Las principales variables consideradas por el sistema corresponden a la relación espacial entre ambos dispositivos vinculados. Estas incluyen:
+
+-Distancia entre los dispositivos, expresada en metros.
+
+-Dirección o orientación aproximada hacia la ubicación del otro dispositivo.
+
+-Coordenadas de ubicación para su representación cartográfica.
+
+-Tiempo estimado de desplazamiento o reencuentro, expresado en minutos.
+
+-Estado de comunicación entre ambos dispositivos.
+
+-Activación de alertas sonoras o mensajes predeterminados.
+
 
 ## Hipótesis
-Un conjunto de dos dispositivos vinculados que integre módulos de posicionamiento y comunicación de bajo costo (Low-Tech) permitirá traducir el distanciamiento físico en variables cuantitativas claras (metros, minutos y coordenadas) y cualitativas (alertas sonoras y mensajería intuitiva preseteada), logrando reducir los tiempos de búsqueda, optimizar la reacción en situaciones de desorientación y asegurar una vía expedita de comunicación y contacto con los organismos de emergencia.
+
+Si se diseña un sistema compuesto por dos dispositivos vinculados que combine funciones de localización, orientación, alerta y comunicación simplificada, entonces será posible entregar a cuidadores y niños información inmediata que facilite la identificación de su posición relativa y la coordinación de acciones ante una situación de extravío.
+
 
 ## Referentes
 ## *Referente 1: Reloj GPS con Arduino*
