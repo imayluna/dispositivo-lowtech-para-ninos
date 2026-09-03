@@ -2,7 +2,7 @@
  # Dispositivos lowtech e interfaces interactivas 
 
 ## Dispositivo-lowtech-para-ninos
-## Nombre del dispositivo: # Piping call
+## Nombre del dispositivo: Piping call
 
 ## Equipo
 
