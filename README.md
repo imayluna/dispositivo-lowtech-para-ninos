@@ -7,10 +7,6 @@
 
 **Problematica:** Dispositivo low-tech de orientación y comunicación bidireccional para el resguardo de menores.
 
-## Descripción
-
-El proyecto aborda el alto costo económico de los sistemas GPS comerciales y la vulnerabilidad de niños de entre 4 y 11 años quienes al extraviarse carecen de herramientas sencillas para comunicarse o pedir ayuda. Este dispositivo esta diseñado para cuidadores (padres, madres o tutores) y sus niños, operando en contextos urbanos de alta concurrencia como plazas, parques y centros comerciales. Para responder a esto, se propone un sistema interactivo bidireccional de bajo costo (Low-Tech) que vincula a ambos usuarios en tiempo real; este no solo permite visualizar la ubicación en mapas, medir la distancia en metros y calcular el tiempo de reencuentro en minutos, sino que también emite señales sonoras, facilita la contención emocional a través de mensajes predeterminados y ofrece una vía expedita para contactar a servicios de emergencia (Carabineros, Bomberos o personal médico).
-
 ## Equipo
 
 | Integrantes |
@@ -18,6 +14,10 @@ El proyecto aborda el alto costo económico de los sistemas GPS comerciales y la
 | Mártin Palacios Araya |
 | Imay Pizarro Luna |
 
+
+## Descripción
+
+El proyecto aborda el alto costo económico de los sistemas GPS comerciales y la vulnerabilidad de niños de entre 4 y 11 años quienes al extraviarse carecen de herramientas sencillas para comunicarse o pedir ayuda. Este dispositivo esta diseñado para cuidadores (padres, madres o tutores) y sus niños, operando en contextos urbanos de alta concurrencia como plazas, parques y centros comerciales. Para responder a esto, se propone un sistema interactivo bidireccional de bajo costo (Low-Tech) que vincula a ambos usuarios en tiempo real; este no solo permite visualizar la ubicación en mapas, medir la distancia en metros y calcular el tiempo de reencuentro en minutos, sino que también emite señales sonoras, facilita la contención emocional a través de mensajes predeterminados y ofrece una vía expedita para contactar a servicios de emergencia (Carabineros, Bomberos o personal médico).
 
 
 ## Desafío o problematica  inicial
