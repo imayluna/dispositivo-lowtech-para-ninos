@@ -15,12 +15,16 @@
 
 ## Descripción
 
-El proyecto aborda el alto costo económico de los sistemas GPS comerciales y la vulnerabilidad de niños de entre 4 y 11 años quienes al extraviarse carecen de herramientas sencillas para comunicarse o pedir ayuda. Este dispositivo esta diseñado para cuidadores (padres, madres o tutores) y sus niños, operando en contextos urbanos de alta concurrencia como plazas, parques y centros comerciales. Para responder a esto, se propone un sistema interactivo bidireccional de bajo costo (Low-Tech) que vincula a ambos usuarios en tiempo real; este no solo permite visualizar la ubicación en mapas, medir la distancia en metros y calcular el tiempo de reencuentro en minutos, sino que también emite señales sonoras, facilita la contención emocional a través de mensajes predeterminados y ofrece una vía expedita para contactar a servicios de emergencia (Carabineros, Bomberos o personal médico).
+La propuesta consiste en un sistema interactivo compuesto por dos dispositivos vinculados entre sí, diseñado bajo un enfoque de bajo costo. El sistema busca facilitar el reencuentro mediante información de ubicación, distancia y orientación, complementada con señales sonoras y un sistema de comunicación basado en mensajes predeterminados. Además, contempla mecanismos de alerta que permitan solicitar apoyo ante situaciones que requieran asistencia externa.
 
 
 ## Desafío o problematica  inicial
 
-El alto costo económico de adquisición de los dispositivos GPS comerciales y limita el acceso a herramientas efectivas de monitoreo y comunicación en familias con niños de 4 a 11 años. Al extraviarse en entornos concurridos, los menores de este rango etario carecen de un medio autónomo, sencillo e intuitivo para reportar su situación de peligro o comunicarse de forma fluida. A su vez, los cuidadores quedan desprovistos de canales directos que no solo les indiquen la ubicación precisa en mapas o la distancia relativa hacia el menor, sino que también les permitan enviar contención emocional inmediata o articular respuestas de emergencia ante situaciones críticas.
+Las soluciones comerciales de localización y monitoreo infantil pueden representar una barrera económica para algunas familias, limitando el acceso a herramientas que permitan apoyar la supervisión de niños en situaciones de extravío.
+
+Cuando un niño de entre 4 y 11 años se separa de su cuidador en un espacio concurrido, puede experimentar desorientación y dificultades para comunicar su situación o solicitar ayuda de manera autónoma. Al mismo tiempo, el cuidador debe iniciar una búsqueda sin contar necesariamente con información inmediata que facilite la localización o la comunicación con el menor.
+
+Esta situación evidencia la necesidad de explorar una alternativa accesible que permita mantener un vínculo funcional entre ambos usuarios y apoyar las acciones necesarias durante un eventual extravío.
 
 
 ## Objetivo 
