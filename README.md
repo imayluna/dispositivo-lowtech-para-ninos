@@ -1,8 +1,8 @@
 
  # Dispositivos lowtech e interfaces interactivas 
 
-# Dispositivo-lowtech-para-ninos
-# Piping call
+## Dispositivo-lowtech-para-ninos
+## Nombre del dispositivo: # Piping call
 
 ## Equipo
 
