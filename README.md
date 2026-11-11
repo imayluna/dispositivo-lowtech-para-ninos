@@ -12,7 +12,9 @@
 | Mártin Palacios Araya |
 | Imay Pizarro Luna |
 
-**Profesor: Ricardo Sepulveda**
+**Profesor:** 
+
+| Ricardo Sepulveda |
 
 
 ## Descripción
