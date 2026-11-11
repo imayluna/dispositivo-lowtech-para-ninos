@@ -13,7 +13,7 @@
 | Imay Pizarro Luna |
 
 **Profesor:** 
-
+|---|
 | Ricardo Sepulveda |
 
 
