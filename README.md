@@ -50,17 +50,11 @@ Debido a las características del usuario infantil, la interacción debe conside
 
 Las principales variables consideradas por el sistema corresponden a la relación espacial entre ambos dispositivos vinculados. Estas incluyen:
 
--Distancia entre los dispositivos, expresada en metros.
-
 -Dirección o orientación aproximada hacia la ubicación del otro dispositivo.
-
--Coordenadas de ubicación para su representación cartográfica.
-
--Tiempo estimado de desplazamiento o reencuentro, expresado en minutos.
 
 -Estado de comunicación entre ambos dispositivos.
 
--Activación de alertas sonoras o mensajes predeterminados.
+-Activación de alertas sonoras.
 
 
 ## Hipótesis
