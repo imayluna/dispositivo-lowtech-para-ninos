@@ -1,7 +1,8 @@
 #include <WiFi.h>
 #include <esp_now.h>
 
-// ====== CAMBIA ESTO: 1 en la Esp1 (buzzer, LED y boton de apagar), 2 en la Esp2 (boton de emergencia) ======
+// ====== CAMBIA ESTO: 1 en la Esp1 (Esp-Padre), 2 en la Esp2 (Esp-Hijo) ====== 
+(Tienes que saber el mac de tu Esp32, para cambiar el codigo a los mac que estan definidos en Mac de cada placa)
 #define ESP_NUMERO 1
 
 // MAC de cada placa
@@ -18,8 +19,8 @@ uint8_t mac2[] = {0xB0, 0xCB, 0xD8, 0x9C, 0x35, 0x58};  // Esp2
 // ====== PINES ======
 #define BUZZER_PIN            25   // Esp1: buzzer
 #define LED_EMERGENCIA_PIN    26   // Esp1: LED (con resistencia de ~220 ohm a GND)
-#define BOTON_APAGAR_PIN      33   // Esp1: boton entre el pin y GND
-#define BOTON_EMERGENCIA_PIN  27   // Esp2: boton entre el pin y GND
+#define BOTON_APAGAR_PIN      33   // Esp1: boton entre el pin y GND (con resistencia de ~220 ohm a GND)
+#define BOTON_EMERGENCIA_PIN  27   // Esp2: boton entre el pin y GND (con resistencia de ~220 ohm a GND)
 
 // ====== AJUSTES (aquí calibras) ======
 const unsigned long INTERVALO_ENVIO  = 50;    // ms entre mensajes (20 por segundo)
